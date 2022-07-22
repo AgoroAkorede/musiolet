@@ -16,8 +16,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "noEmit": true,
-    "incremental": true,
+    // "noEmit": true,
+    // "incremental": true,
     
   },
   "include": [

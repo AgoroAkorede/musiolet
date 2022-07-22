@@ -1,13 +1,9 @@
-// interface Music{
-
-// }
- type Title={
+export interface NAV{
     name: string
     icon: JSX.Element 
-    
-}
-type Search = {
-    
 }
 
-export default Title
+export type search={
+    search: string 
+    icon: JSX.Element 
+}
